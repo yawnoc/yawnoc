@@ -17,6 +17,8 @@
   - [Mahjong Scorer]
   - [Big Two (鋤大弟) Scorer]
 
+- [Perth Mahjong Society]
+
 [Conway's site]:
   https://yawnoc.github.io/
 [Conway's Romanisation for Cantonese]:
@@ -43,3 +45,6 @@
   https://github.com/yawnoc/mahjong-scorer
 [Big Two (鋤大弟) Scorer]:
   https://github.com/yawnoc/big-two-scorer
+
+[Perth Mahjong Society]:
+  https://perthmahjongsoc.github.io/
