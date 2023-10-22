@@ -5,7 +5,7 @@
     - [Conway's Lexicon for Literary Chinese]
     - [《孫子算經》 "Sun Tzŭ's Computational Classic"]
     - [《論語》 "\[The\] Analects" (incomplete)]
-    - [《御製康熙字典序》 "Imperially-Made Preface \[unto the\] K'ang‑hee Dictionary"]
+    - [《御製康熙字典序》 "Imperially-Made Preface \[unto the\] Kʻang‑hee Dictionary"]
 
 - Keyboard development:
   - [Stroke Input Method (筆畫輸入法) for Android]
@@ -29,7 +29,7 @@
   https://yawnoc.github.io/sun-tzu/
 [《論語》 "\[The\] Analects" (incomplete)]:
   https://yawnoc.github.io/analects/
-[《御製康熙字典序》 "Imperially-Made Preface \[unto the\] K'ang‑hee Dictionary"]:
+[《御製康熙字典序》 "Imperially-Made Preface \[unto the\] Kʻang‑hee Dictionary"]:
   https://yawnoc.github.io/lit/kangxi-preface
 
 [Stroke Input Method (筆畫輸入法) for Android]:
