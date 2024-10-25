@@ -9,6 +9,7 @@
 
 - Keyboard development:
   - [Stroke Input Method (筆畫輸入法) for Android]
+  - [Stroke Input Method (筆畫輸入法): JavaScript]
   - [Data for the stroke input method]
 
 - Mathematical stuff:
@@ -34,6 +35,8 @@
 
 [Stroke Input Method (筆畫輸入法) for Android]:
   https://github.com/stroke-input/stroke-input-android
+[Stroke Input Method (筆畫輸入法): JavaScript]:
+  https://stroke-input.github.io/javascript/
 [Data for the stroke input method]:
   https://github.com/stroke-input/stroke-input-data
 
