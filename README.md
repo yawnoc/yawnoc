@@ -14,7 +14,7 @@
 
 - Mathematical stuff:
   - [Conway's Ph.D. Thesis]
-  - [Slow Fault Tree Analyser (SFTA)]
+  - [Public Fault Tree Analyser (PFTA)]
   - [Mahjong Scorer]
   - [Big Two (鋤大弟) Scorer]
 
@@ -42,8 +42,8 @@
 
 [Conway's Ph.D. Thesis]:
   https://github.com/yawnoc/phd-thesis
-[Slow Fault Tree Analyser (SFTA)]:
-  https://github.com/yawnoc/sfta
+[Public Fault Tree Analyser (PFTA)]:
+  https://github.com/public-fta/pfta
 [Mahjong Scorer]:
   https://github.com/yawnoc/mahjong-scorer
 [Big Two (鋤大弟) Scorer]:
